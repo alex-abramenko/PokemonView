@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PokemonView</string>
+    <string name="attack">Attack</string>
+    <string name="defense">Defense</string>
+    <string name="HP">HP</string>
+    <string name="todo">TODO</string>
+    <string name="Refresh">Refresh</string>
+    <string name="sms_load">Please wait, pokemon are loading...</string>
+    <string name="height">Height: </string>
+    <string name="weight">Weight: </string>
+    <string name="type">Type: </string>
+    <string name="stats">Stats: </string>
+    <string name="max_attack">MAX-Attack</string>
+    <string name="max_defense">MAX-Defense</string>
+    <string name="max_hp">MAX-HP</string>
+</resources>
